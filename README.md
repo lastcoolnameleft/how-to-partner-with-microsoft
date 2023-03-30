@@ -58,23 +58,23 @@ By end of this session you will understand the Microsoft Partner ecosystem and k
 
 # Acronyms
 
-- [ISV](https://en.wikipedia.org/wiki/Independent_software_vendor) - Independent Software Vendor
-- [SI](https://en.wikipedia.org/wiki/Systems_integrator) - Systems Integrator
-- [CSP](https://en.wikipedia.org/wiki/Cloud_computing) - Cloud Service Provider
-- [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment) - Microsoft Azure Consumption Commitment
-- [GTM](https://en.wikipedia.org/wiki/Go_to_market) - Go To Market
-- [MPN](https://partner.microsoft.com/en-us/partnership) - Microsoft Partner Number
-- [MP](https://azuremarketplace.microsoft.com/en-us/) - Azure Marketplace
-- [MS](https://microsoft.com/) - Microsoft
+- [ISV](https://en.wikipedia.org/wiki/Independent_software_vendor): Independent Software Vendor
+- [SI](https://en.wikipedia.org/wiki/Systems_integrator): Systems Integrator
+- [CSP](https://en.wikipedia.org/wiki/Cloud_computing): Cloud Service Provider
+- [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment): Microsoft Azure Consumption Commitment
+- [GTM](https://en.wikipedia.org/wiki/Go_to_market): Go To Market
+- [MPN](https://partner.microsoft.com/en-us/partnership): Microsoft Partner Number
+- [MP](https://azuremarketplace.microsoft.com/en-us/): Azure Marketplace
+- [MS](https://microsoft.com/): Microsoft
 
 ---
 
 # Concepts
 
-- [Partner Center](https://learn.microsoft.com/en-us/partner-center/overview) - A portal for Partners to manage their account, offers, customers and billing
-- [Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/) - Where customers can purchase offers
-- [Offer](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type) - Software or service that the customer purchases (aka solutions)
-- [Microsoft Cloud Partner Program](https://partner.microsoft.com/en-US/) - All-up program for managing partners
+- [Partner Center](https://learn.microsoft.com/en-us/partner-center/overview): A portal for Partners to manage their account, offers, customers and billing
+- [Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/): Where customers can purchase offers
+- [Offer](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type): Software or service that the customer purchases (aka solutions)
+- [Microsoft Cloud Partner Program](https://partner.microsoft.com/en-US/): All-up program for managing partners
 
 ---
 
@@ -156,25 +156,25 @@ The most common types of Partners are:
 ---
 # [Offer Type - SaaS](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-saas-offer)
 
-- [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/saas/tech-topics/) - Walkthrough of creating SaaS offer
-- [SaaS Accelerator](https://microsoft.github.io/Mastering-the-Marketplace/saas-accelerator/) - Provides a functional, technical implementation for SaaS solutions for getting started
+- [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/saas/tech-topics/): Walkthrough of creating SaaS offer
+- [SaaS Accelerator](https://microsoft.github.io/Mastering-the-Marketplace/saas-accelerator/): Provides a functional, technical implementation for SaaS solutions for getting started
 
 ---
 # [Offer Type - Azure Container](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-containers) 
 
 Two types of Azure Container Offers:
-- [Container Image](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets) - Microsoft hosts the Container image in it's own Container Registry for customers to download.  Not transactable
-- [Kubernetes Apps](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets-kubernetes) - Microsoft hosts Container images + helm chart, deploys into Customer AKS cluster and manages billing.  
+- [Container Image](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets): Microsoft hosts the Container image in it's own Container Registry for customers to download.  Not transactable
+- [Kubernetes Apps](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets-kubernetes): Microsoft hosts Container images + helm chart, deploys into Customer AKS cluster and manages billing.  
   - Requires: Deployable via Helm chart
   - [More details](https://aka.ms/k8sapps)
 ---
 # [Co-Sell](https://learn.microsoft.com/en-us/partner-center/co-sell-overview)
 
-MP Solutions will have a [Co-Sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#co-sell-statuses) with requirements:
+Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#co-sell-statuses):
 
-- In-Market - Offer exists in MP
-- Co-Sell Ready - In-Market + Solution exposed to MS sales teams
-- Azure IP co-sell incentive - Co-Sell Ready + eligible for incentives (e.g. MACC)
+- In-Market: Offer exists in MP
+- Co-Sell Ready: Offer is In-Market & Solution exposed to MS sales teams
+- Azure IP co-sell incentive: Co-Sell Ready & eligible for incentives (e.g. MACC)
 
 ---
 # [Co-Sell Ready Requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#requirements-for-co-sell-ready-status)
@@ -191,7 +191,7 @@ MP Solutions will have a [Co-Sell Status](https://learn.microsoft.com/en-us/part
 
 1. $100k USD of ACR over last 12 months
 2. Provide reference architecture diagram
-3. 50% of offers infra uses Azure
+3. 50% of the offer's infrastructure uses Azure
 
 ---
 
@@ -216,8 +216,8 @@ MP Solutions will have a [Co-Sell Status](https://learn.microsoft.com/en-us/part
 ---
 # Need more help?
 
-- [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/) - Videos, Hands on Labs and Code Samples for offer types
-- [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners) - Live and recorded webinars for business and technical topics
+- [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/): Videos, Hands on Labs and Code Samples for offer types
+- [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners): Live and recorded webinars for business and technical topics
 
 ---
 # FAQ
