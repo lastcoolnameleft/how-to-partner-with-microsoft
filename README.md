@@ -74,6 +74,7 @@ By end of this session you will understand the Microsoft Partner ecosystem and k
 - [Partner Center](https://learn.microsoft.com/en-us/partner-center/overview) - A portal for Partners to manage their account, offers, customers and billing
 - [Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/) - Where customers can purchase offers
 - [Offer](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type) - Software or service that the customer purchases (aka solutions)
+- [Microsoft Cloud Partner Program](https://partner.microsoft.com/en-US/) - All-up program for managing partners
 
 ---
 
@@ -117,6 +118,7 @@ The most common types of Partners are:
    - See also: [How to become a Microsoft Partner](https://www.microsoft.com/en-us/us-partner-blog/2020/10/22/how-to-become-a-microsoft-partner/)
 2. Create an Offer in Partner Center
 3. Start Co-Selling
+4. BONUS: Get your offer MACC Eligible
 
 ---
 
@@ -128,21 +130,15 @@ The most common types of Partners are:
  
 ---
 
-# How to make an offer Transactable
-- ??? (Add types: Get It Now, Ask Me)
-- How you list matters.
-- Contact me does not count.
----
 # [Offer Listing Options](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type)
 
 - Free Trial
 - Test Drive
 - Contact Me
 - [Get It Now](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type#get-it-now)
-  - Free
-  - BYOL
-  - Subscription
-  - 
+  - Licences: Free, BYOL, Subscription
+  - Only way to "Transact in Marketplace"
+ 
 
 ---
 
@@ -157,6 +153,20 @@ The most common types of Partners are:
 - [Consulting Service](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-consulting-service-offer)
 - [And more!](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type#list-of-offer-types)
 
+---
+# [Offer Type - SaaS](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-saas-offer)
+
+- [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/saas/tech-topics/) - Walkthrough of creating SaaS offer
+- [SaaS Accelerator](https://microsoft.github.io/Mastering-the-Marketplace/saas-accelerator/) - Provides a functional, technical implementation for SaaS solutions for getting started
+
+---
+# [Offer Type - Azure Container](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-containers) 
+
+Two types of Azure Container Offers:
+- [Container Image](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets) - Microsoft hosts the Container image in it's own Container Registry for customers to download.  Not transactable
+- [Kubernetes Apps](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-container-technical-assets-kubernetes) - Microsoft hosts Container images + helm chart, deploys into Customer AKS cluster and manages billing.  
+  - Requires: Deployable via Helm chart
+  - [More details](https://aka.ms/k8sapps)
 ---
 # [Co-Sell](https://learn.microsoft.com/en-us/partner-center/co-sell-overview)
 
@@ -204,13 +214,18 @@ MP Solutions will have a [Co-Sell Status](https://learn.microsoft.com/en-us/part
 - [Azure Migration and Modernization Program](https://azure.microsoft.com/en-us/solutions/migration/migration-modernization-program/#overview)
 
 ---
+# Need more help?
+
+- [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/) - Videos, Hands on Labs and Code Samples for offer types
+- [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners) - Live and recorded webinars for business and technical topics
+
+---
 # FAQ
 
 - Q: How do SI Partners get credit for the work they're doing?
-  - A: [PAL / DPOR](https://learn.microsoft.com/en-us/partner-center/link-partner-id-for-azure-performance-pal-dpor)
+  - A: The partner must [link their Parter ID with PAL or DPOR](https://learn.microsoft.com/en-us/partner-center/link-partner-id-for-azure-performance-pal-dpor)
 
 ---
-
 
 <!--
 _backgroundColor: black
