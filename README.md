@@ -1,6 +1,5 @@
 ---
 marp: true
-theme: gaia
 _class: invert
 paginate: true
 style: |
@@ -18,7 +17,7 @@ _class: lead invert
 
 # **How and Why to Partner with Microsoft**
 
-### Presented by: Tommy Falgout
+## Presented by: Tommy Falgout
 
 ---
 
@@ -121,13 +120,18 @@ The most common types of Partners are:
 4. BONUS: Get your offer MACC Eligible
 
 ---
+<!--
+_class: lead invert
+-->
+# Offers and Offer Types
+---
 
 # Create an Offer in Partner Center
 
 - [Select an Offer Type](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type)
 - [Select a Plan](https://learn.microsoft.com/en-us/partner-center/pricing-and-offers) (e.g. How to charge)
 - [Submit Offer for review](https://learn.microsoft.com/en-us/partner-center/marketplace/review-publish-offer)
- 
+
 ---
 
 # [Offer Listing Options](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type)
@@ -168,6 +172,13 @@ Two types of Azure Container Offers:
   - Requires: Deployable via Helm chart
   - [More details](https://aka.ms/k8sapps)
 ---
+
+<!--
+_class: lead invert
+-->
+# Co-Sell and MACC
+---
+
 # [Co-Sell](https://learn.microsoft.com/en-us/partner-center/co-sell-overview)
 
 Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#co-sell-statuses):
@@ -190,9 +201,9 @@ Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us
 #  [Azure IP Co-Sell Incentive Requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#requirements-for-azure-ip-co-sell-incentive-status)
 
 1. $100k USD of ACR over last 12 months
-2. Provide reference architecture diagram
+2. Provide reference architecture diagram. ([Example](https://learn.microsoft.com/en-us/partner-center/reference-architecture-diagram#example-reference-architecture-diagram-vertical-industry-chatbot))
+   - ProTip:  Use red box with "IP", use Azure Logos, add bullet points with data flows
 3. 50% of the offer's infrastructure uses Azure
-
 ---
 
 #  [MACC Eligible Requirements](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#requirements-for-an-offer-to-be-enrolled-in-macc) 
@@ -203,6 +214,27 @@ Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us
  
 [How to tell if offer is MACC eligible](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#how-to-see-if-your-offer-is-enrolled-in-the-macc-program)
 
+---
+<!--
+_class: lead invert
+-->
+# Advanced Scenarios
+---
+
+# Private Offers and Private Plans
+
+## [Private Plans](https://learn.microsoft.com/en-us/marketplace/private-plans) - A custom pricing plan of an Offer for a specific Tenant or Subscription
+
+## [Private Offers](https://learn.microsoft.com/en-us/marketplace/private-offers-in-azure-marketplace) - Similar to Private Plans, but covers more scenarios (e.g. discounts, expiration dates, bundles, custom terms)
+
+- [Requires extra configuration](https://learn.microsoft.com/en-us/marketplace/private-offers-pre-check)
+- [Troubleshooting](https://learn.microsoft.com/en-us/marketplace/private-offer-troubleshoot)
+
+---
+<!--
+_class: lead invert
+-->
+# Partner Programs
 ---
 # Partner Programs
 
