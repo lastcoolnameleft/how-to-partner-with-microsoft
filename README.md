@@ -115,9 +115,10 @@ The most common types of Partners are:
    - Gives you MPN ID
    - Must provide emails, legal info, etc.
    - See also: [How to become a Microsoft Partner](https://www.microsoft.com/en-us/us-partner-blog/2020/10/22/how-to-become-a-microsoft-partner/)
+   - [Step-by-step instructions for becoming a partner](https://davidgiard.com/becoming-a-microsoft-partner) by [David Giard](https://davidgiard.com)
 2. Create an Offer in Partner Center
 3. Start Co-Selling
-4. BONUS: Get your offer MACC Eligible
+4. BONUS: Get your Offer MACC Eligible
 
 ---
 <!--
@@ -190,11 +191,11 @@ Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us
 ---
 # [Co-Sell Ready Requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#requirements-for-co-sell-ready-status)
 
-- Have Partner ID & Active MP account
-- Completed business Profile in PC
-- Publish Offer in MP
-- Provide sales contact
-- Provide listing & required documents
+1. Have Partner ID & Active MP account
+2. Completed business Profile in PC
+3. Publish Offer in MP
+4. Provide sales contact
+5. Provide listing & required documents
 
 ---
 
@@ -208,11 +209,12 @@ Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us
 
 #  [MACC Eligible Requirements](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#requirements-for-an-offer-to-be-enrolled-in-macc) 
 
-- Transactable for > $0
-- Azure IP Co-sell Incentivized
-- Live in MP
+1. Transactable for > $0
+2. Azure IP Co-sell Incentivized
+3. Offer is Live in MP
  
-[How to tell if offer is MACC eligible](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#how-to-see-if-your-offer-is-enrolled-in-the-macc-program)
+See also:
+- [How to tell if offer is MACC eligible](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#how-to-see-if-your-offer-is-enrolled-in-the-macc-program)
 
 ---
 <!--
