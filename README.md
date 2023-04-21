@@ -1,26 +1,30 @@
 ---
 marp: true
-_class: invert
 paginate: true
 style: |
+    section.lead {
+        background-color: #243a5e;
+    }
     section.lead h1 {
-        text-align: center;
+      color: white;
     }
     section.lead h2 {
-        color: yellow;
-        text-align: center;
+      color: white;
     }
+#footer: '![image](img/microsoft-logo.png)'
+
 ---
 <!--
 _class: lead invert
 -->
 
-# **How and Why to Partner with Microsoft**
+# How and Why to Partner with Microsoft
+Go from 0 to Hero as a Microsoft Partner
 
-## Presented by: Tommy Falgout
+### Presented by: Tommy Falgout | Cloud Solution Architect
 
 ---
-
+<!-- text-align: center -->
 # Agenda
 
 - Intro & Background
@@ -243,6 +247,7 @@ _class: lead invert
 - [SI Programs](https://partner.microsoft.com/en-us/partnership/compare-programs#tab-1)
 - [ISV Programs](https://partner.microsoft.com/en-us/partnership/compare-programs#tab-2)
   - [ISV Success Program](https://www.microsoft.com/en-us/isv/program-benefits)
+  - [Microsoft for Startups](https://www.microsoft.com/en-us/startups)
 - [Support Plans](https://partner.microsoft.com/en-us/support/partnersupport)
 - [FY23 Marketplace Transact and Grow Incentive](https://www.microsoftpartnercommunity.com/t5/Take-advantage-of-key-benefits/Announcing-Microsoft-Marketplace-Transact-and-Grow-Incentive/m-p/78092)
 - [Azure Migration and Modernization Program](https://azure.microsoft.com/en-us/solutions/migration/migration-modernization-program/#overview)
