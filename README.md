@@ -186,10 +186,10 @@ _class: lead invert
 
 # [Co-Sell](https://learn.microsoft.com/en-us/partner-center/co-sell-overview)
 
-Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#co-sell-statuses):
+Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#co-sell-statuses) that build on each other:
 
 - In-Market: Offer exists in MP
-- Co-Sell Ready: Offer is In-Market & Solution exposed to MS sales teams
+- Co-Sell Ready: Offer is In-Market & met Co-Sell Ready Requirements (next slide)
 - Azure IP co-sell incentive: Co-Sell Ready & eligible for incentives (e.g. MACC)
 
 ---
@@ -205,16 +205,19 @@ Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us
 
 #  [Azure IP Co-Sell Incentive Requirements](https://learn.microsoft.com/en-us/partner-center/co-sell-requirements#requirements-for-azure-ip-co-sell-incentive-status)
 
-1. $100k USD of ACR over last 12 months
-2. Provide reference architecture diagram. ([Example](https://learn.microsoft.com/en-us/partner-center/reference-architecture-diagram#example-reference-architecture-diagram-vertical-industry-chatbot))
+
+1. Co-Sell Ready
+2. $100k USD of ACR over last 12 months
+3. Provide reference architecture diagram. ([Example](https://learn.microsoft.com/en-us/partner-center/reference-architecture-diagram#example-reference-architecture-diagram-vertical-industry-chatbot))
    - ProTip:  Use red box with "IP", use Azure Logos, add bullet points with data flows
-3. 50% of the offer's infrastructure uses Azure
+4. 50% of the offer's infrastructure uses Azure
+
 ---
 
 #  [MACC Eligible Requirements](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment#requirements-for-an-offer-to-be-enrolled-in-macc) 
 
-1. Transactable for > $0
-2. Azure IP Co-sell Incentivized
+1. Azure IP Co-sell Incentivized
+2. Transactable for > $0
 3. Offer is Live in MP
  
 See also:
@@ -263,7 +266,8 @@ _class: lead invert
 
 - Q: How do SI Partners get credit for the work they're doing?
   - A: The partner must [link their Parter ID with PAL or DPOR](https://learn.microsoft.com/en-us/partner-center/link-partner-id-for-azure-performance-pal-dpor)
-
+- Q: Our Partner Center admin is no longer with the company.  How do we get in?
+  - A: Follow options [listed here](https://learn.microsoft.com/en-us/partner-center/no-mpn-admin)
 ---
 
 <!--
