@@ -11,9 +11,9 @@ style: |
     section.lead h2 {
       color: white;
     }
-#footer: '![image](img/microsoft-logo.png)'
 
 ---
+
 <!--
 _class: lead invert
 -->
@@ -22,6 +22,16 @@ _class: lead invert
 Go from 0 to Hero as a Microsoft Partner
 
 ### Presented by: Tommy Falgout | Cloud Solution Architect
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H54XCCMNKG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H54XCCMNKG');
+</script>
 
 ---
 <!-- text-align: center -->
@@ -58,53 +68,55 @@ By end of this session you will understand the Microsoft Partner ecosystem and k
 
 ---
 
+## Acronyms - Programs
 
-# Acronyms
-
-- [ISV](https://en.wikipedia.org/wiki/Independent_software_vendor): Independent Software Vendor
-- [SI](https://en.wikipedia.org/wiki/Systems_integrator): Systems Integrator
-- [CSP](https://en.wikipedia.org/wiki/Cloud_computing): Cloud Service Provider
+- [ECIF](https://partner.microsoft.com/en-bd/community/seanm-partner-hub/intelligent-cloud/funding): End Customer Investment Funds
 - [MACC](https://learn.microsoft.com/en-us/partner-center/marketplace/azure-consumption-commitment-enrollment): Microsoft Azure Consumption Commitment
-- [GTM](https://en.wikipedia.org/wiki/Go_to_market): Go To Market
-- [MPN](https://partner.microsoft.com/en-us/partnership): Microsoft Partner Number
-- [MP](https://azuremarketplace.microsoft.com/en-us/): Azure Marketplace
-- [MS](https://microsoft.com/): Microsoft
+- [MPO](https://learn.microsoft.com/en-us/partner-center/marketplace/multiparty-private-offers-faq): Multiparty Private Offers
 
 ---
+
+# Acronyms Misc
+
+- [MCPP](https://www.microsoft.com/en-us/us-partner-blog/2022/06/01/what-you-need-to-know-about-the-microsoft-cloud-partner-program/): Microsoft Cloud Partner Program
+- [MPN](https://partner.microsoft.com/en-us/partnership): Microsoft Partner Number
+- [MP](https://azuremarketplace.microsoft.com/en-us/): Azure Marketplace
+- [GTM](https://en.wikipedia.org/wiki/Go_to_market): Go To Market
+
+---
+
 
 # Concepts
 
 - [Partner Center](https://learn.microsoft.com/en-us/partner-center/overview): A portal for Partners to manage their account, offers, customers and billing
 - [Azure Marketplace](https://azuremarketplace.microsoft.com/en-US/): Where customers can purchase offers
 - [Offer](https://learn.microsoft.com/en-us/partner-center/marketplace/publisher-guide-by-offer-type): Software or service that the customer purchases (aka solutions)
-- [Microsoft Cloud Partner Program](https://partner.microsoft.com/en-US/): All-up program for managing partners
+
+---
+# Who are Partners?
+
+The most common types of Partners are:
+
+- [ISV](https://en.wikipedia.org/wiki/Independent_software_vendor): Independent Software Vendor
+- [SI](https://en.wikipedia.org/wiki/Systems_integrator): Systems Integrator
+- [CSP](https://learn.microsoft.com/en-us/partner-center/enrolling-in-the-csp-program): Cloud Service Providers
 
 ---
 
 
 # What is a Partner?
 
-There are many different ways that a company might be a Microsoft partner.
-- Engineering Partnership
-- [Co-Sell](https://en.wikipedia.org/wiki/Cross-selling) / GTM
+There are multiple types of partnerships with Microsoft:
+- Engineering Partnership - Launching a joint technical project
+- [Co-Sell](https://en.wikipedia.org/wiki/Cross-selling) / GTM: Primary focus of this presentation
 
 ---
 
-# Who is Partner?
+# Why be a Co-Sell Partner?
 
-The most common types of Partners are:
-
--  ISV
--  SI
--  [CSP](https://learn.microsoft.com/en-us/partner-center/enrolling-in-the-csp-program)
-
----
-
-# Why be a Partner?
-
-- Integrated Billing
+- Integrated Billing for Customers
   - Customer likely has billing setup with Microsoft
-  - Approving PO for customer can take months
+  - Approving new Purchase Order for customer can take months
 - Customers want to [decrement MACC](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/track-consumption-commitment?tabs=portal)
 - MS is HUGE. MS Partner network is even bigger
   - [For every $1 of MS revenue, ISV's make $10](https://blogs.partner.microsoft.com/partner/microsoft-ecosystem-value-new-data-reveals-partner-paths-to-profitability-and-growth/)
@@ -264,6 +276,8 @@ _class: lead invert
 ---
 # FAQ
 
+- Q: How do I get my Partner ID?
+  - A: Go to the [Identifiers page in Partner Center](https://partner.microsoft.com/en-us/dashboard/account/v3/organization/identity)
 - Q: How do SI Partners get credit for the work they're doing?
   - A: The partner must [link their Parter ID with PAL or DPOR](https://learn.microsoft.com/en-us/partner-center/link-partner-id-for-azure-performance-pal-dpor)
 - Q: Our Partner Center admin is no longer with the company.  How do we get in?
@@ -299,6 +313,6 @@ h5 {
 </style>
 
 # Thanks for attending!
-## Let me know how this impacts you!
+## Let me know how this helps you!
 ### Tommy Falgout
 #### Cloud Solution Architect
