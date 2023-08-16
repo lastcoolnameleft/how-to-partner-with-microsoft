@@ -223,6 +223,7 @@ Every MP Solution will have a [Co-Sell Status](https://learn.microsoft.com/en-us
 3. Provide reference architecture diagram. ([Example](https://learn.microsoft.com/en-us/partner-center/reference-architecture-diagram#example-reference-architecture-diagram-vertical-industry-chatbot))
    - ProTip:  Use red box with "IP", use Azure Logos, add bullet points with data flows
 4. 50% of the offer's infrastructure uses Azure
+5. Offer must be transactable on the Marketplace
 
 ---
 
