@@ -24,13 +24,13 @@ Go from 0 to Hero as a Microsoft Partner
 ### Presented by: Tommy Falgout | Cloud Solution Architect
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H54XCCMNKG"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K3440SREZN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-H54XCCMNKG');
+  gtag('config', 'G-K3440SREZN');
 </script>
 
 ---
@@ -256,7 +256,8 @@ _class: lead invert
 <!--
 _class: lead invert
 -->
-# Partner Programs
+# Partner Programs & Incentives
+
 ---
 # Partner Programs
 
@@ -265,15 +266,21 @@ _class: lead invert
   - [ISV Success Program](https://www.microsoft.com/en-us/isv/program-benefits)
   - [Microsoft for Startups](https://www.microsoft.com/en-us/startups)
 - [Support Plans](https://partner.microsoft.com/en-us/support/partnersupport)
-- [FY23 Marketplace Transact and Grow Incentive](https://www.microsoftpartnercommunity.com/t5/Take-advantage-of-key-benefits/Announcing-Microsoft-Marketplace-Transact-and-Grow-Incentive/m-p/78092)
 - [Azure Migration and Modernization Program](https://azure.microsoft.com/en-us/solutions/migration/migration-modernization-program/#overview)
+- [Microsoft Action Pack Subscription (MAPS)](https://learn.microsoft.com/en-us/partner-center/mpn-get-action-pack)
 
+---
+# Incentives
+
+- [FY23 Marketplace Transact and Grow Incentive](https://www.microsoftpartnercommunity.com/t5/Take-advantage-of-key-benefits/Announcing-Microsoft-Marketplace-Transact-and-Grow-Incentive/m-p/78092)
+- [Partner Investments Engine (PIE)](https://www.microsoft.com/en-us/americas-partner-blog/2023/04/27/partner-investments-engine-pie-a-quick-start-guide/): Partners can request funds to support the sales execution
 ---
 # Need more help?
 
 - [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/): Videos, Hands on Labs and Code Samples for offer types
 - [Marketplace Office Hours](https://microsoftcloudpartner.eventbuilder.com/MarketplaceOverviewandQAforPartners): Live and recorded webinars for business and technical topics
-
+- [The Partner Masters](https://thepartnermasters.com/): Former MS employees and parters designed to help on the Microsoft Marketplace
+- [Technical Presales and Deployment Services](https://learn.microsoft.com/en-us/partner-center/technical-benefits): Consultations to help you plan, build, and publish your Microsoft offers.  
 ---
 # FAQ
 
@@ -283,6 +290,7 @@ _class: lead invert
   - A: The partner must [link their Parter ID with PAL or DPOR](https://learn.microsoft.com/en-us/partner-center/link-partner-id-for-azure-performance-pal-dpor)
 - Q: Our Partner Center admin is no longer with the company.  How do we get in?
   - A: Follow options [listed here](https://learn.microsoft.com/en-us/partner-center/no-mpn-admin)
+
 ---
 
 <!--
