@@ -270,10 +270,14 @@ _class: lead invert
 - [Microsoft Action Pack Subscription (MAPS)](https://learn.microsoft.com/en-us/partner-center/mpn-get-action-pack)
 
 ---
+
 # Incentives
 
 - [FY23 Marketplace Transact and Grow Incentive](https://partner.microsoft.com/en-us/asset/collection/marketplace-transact-and-grow-incentive-campaign#/) - Earn up to USD $200,000 in cash rewards when reaching billed sales milestones. [Blog announcement](https://www.microsoftpartnercommunity.com/t5/Take-advantage-of-key-benefits/Announcing-Microsoft-Marketplace-Transact-and-Grow-Incentive/m-p/78092)
+- [ISV ACR Growth Incentive Campaign](https://partner.microsoft.com/en-us/asset/collection/isv-acr-growth-incentive-campaign#/) - Partners can receive up to $350,000 USD in incentive award for driving ACR growth in our FY24 campaign.
 - [Partner Investments Engine (PIE)](https://www.microsoft.com/en-us/americas-partner-blog/2023/04/27/partner-investments-engine-pie-a-quick-start-guide/): Partners can request funds to support the sales execution
+
+
 ---
 # Need more help?
 
