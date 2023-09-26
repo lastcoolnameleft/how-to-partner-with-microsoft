@@ -39,8 +39,8 @@ Go from 0 to Hero as a Microsoft Partner
 
 - Intro & Background
 - What is a Microsoft Partner?
-- Who is a Microsoft Partner?
 - Why be a Microsoft Partner?
+- Benefits and Incentives for Microsoft Partners
 - How does a Partner...?
 
 ---
@@ -272,7 +272,7 @@ _class: lead invert
 ---
 # Incentives
 
-- [FY23 Marketplace Transact and Grow Incentive](https://www.microsoftpartnercommunity.com/t5/Take-advantage-of-key-benefits/Announcing-Microsoft-Marketplace-Transact-and-Grow-Incentive/m-p/78092)
+- [FY23 Marketplace Transact and Grow Incentive](https://partner.microsoft.com/en-us/asset/collection/marketplace-transact-and-grow-incentive-campaign#/) - Earn up to USD $200,000 in cash rewards when reaching billed sales milestones. [Blog announcement](https://www.microsoftpartnercommunity.com/t5/Take-advantage-of-key-benefits/Announcing-Microsoft-Marketplace-Transact-and-Grow-Incentive/m-p/78092)
 - [Partner Investments Engine (PIE)](https://www.microsoft.com/en-us/americas-partner-blog/2023/04/27/partner-investments-engine-pie-a-quick-start-guide/): Partners can request funds to support the sales execution
 ---
 # Need more help?
