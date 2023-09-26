@@ -132,6 +132,7 @@ There are multiple types of partnerships with Microsoft:
    - Must provide emails, legal info, etc.
    - See also: [How to become a Microsoft Partner](https://www.microsoft.com/en-us/us-partner-blog/2020/10/22/how-to-become-a-microsoft-partner/)
    - [Step-by-step instructions for becoming a partner](https://davidgiard.com/becoming-a-microsoft-partner) by [David Giard](https://davidgiard.com)
+   - [How to Guide](https://techcommunity.microsoft.com/t5/news-from-microsoft-norway/how-to-become-a-partner-at-microsoft-the-first-quot-how-to-quot/ba-p/3808349)
 2. Create an Offer in Partner Center
 3. Start Co-Selling
 4. BONUS: Get your Offer MACC Eligible
